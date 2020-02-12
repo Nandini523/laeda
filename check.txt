@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style>
+body{
+background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7O7fZJ1VP5Apkkh0HzZlwsCR1aftjdF2Knb6MZ2YU810GG199");
+background-repeat:no-repeat;
+background-size:400px 200px;
+}
+.center
+{
+padding:50px 0;
+padding-left:80px;
+text-align:center;
+}
+ul{text-align:justify;
+padding-left:300px;}
+</style></head>
+<body>
+<div class="container">
+  <div class="center">  
+<ul >
+<h1>Why Fitness</h1><br>
+It Can Help With Weight Loss<br>
+It Is Good for Your Muscles and Bones<br>
+It Can Increase Your Energy Levels<br>
+It Can Reduce Your Risk of Chronic Disease
+</ul>
+</div>
+</div>
+
+</body>
+</html>
