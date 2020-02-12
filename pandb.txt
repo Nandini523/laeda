@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+
+<frameset rows="*,*">
+  <frame src="para.html">
+  <frame src="btn.html">
+  
+</frameset>
+
+</html>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+
+<frameset cols="25%,75%">
+  <frame src="siden.html">
+  <frame src="pandb.html">
+  
+</frameset>
+
+</html>
